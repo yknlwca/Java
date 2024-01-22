@@ -1,4 +1,4 @@
-package com.ssafy.ws.step4;
+package Restaurant;
 
 import java.util.Arrays;
 
